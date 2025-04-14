@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on Hugo Theme Stack Starter</title>
-        <link>http://localhost:55933/realBlog/page/</link>
-        <description>Recent content in Pages on Hugo Theme Stack Starter</description>
+        <title>Pages on Welcome !</title>
+        <link>http://localhost:1313/realBlog/page/</link>
+        <description>Recent content in Pages on Welcome !</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55933/realBlog/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/realBlog/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>http://localhost:55933/realBlog/archives/</link>
+        <link>http://localhost:1313/realBlog/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:55933/realBlog/archives/</guid>
+        <guid>http://localhost:1313/realBlog/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://localhost:55933/realBlog/links/</link>
+        <link>http://localhost:1313/realBlog/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:55933/realBlog/links/</guid>
+        <guid>http://localhost:1313/realBlog/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -51,10 +51,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:55933/realBlog/search/</link>
+        <link>http://localhost:1313/realBlog/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:55933/realBlog/search/</guid>
+        <guid>http://localhost:1313/realBlog/search/</guid>
         <description></description>
         </item>
         
