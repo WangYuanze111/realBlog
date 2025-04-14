@@ -2,74 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo_blog_stack/p/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/</loc>
+    <loc>http://localhost:1313/realBlog/p/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/p/hello-world/</loc>
+    <loc>http://localhost:1313/realBlog/p/hello-world/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/</loc>
+    <loc>http://localhost:1313/realBlog/</loc>
     <lastmod>2025-04-14T11:58:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/p/0414/</loc>
+    <loc>http://localhost:1313/realBlog/p/0414/</loc>
     <lastmod>2025-04-14T11:58:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/post/</loc>
+    <loc>http://localhost:1313/realBlog/post/</loc>
     <lastmod>2025-04-14T11:58:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/categories/</loc>
+    <loc>http://localhost:1313/realBlog/categories/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/tags/</loc>
+    <loc>http://localhost:1313/realBlog/tags/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://localhost:1313/realBlog/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://localhost:1313/realBlog/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/tags/css/</loc>
+    <loc>http://localhost:1313/realBlog/tags/css/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/tags/html/</loc>
+    <loc>http://localhost:1313/realBlog/tags/html/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/tags/markdown/</loc>
+    <loc>http://localhost:1313/realBlog/tags/markdown/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/p/markdown-syntax-guide/</loc>
+    <loc>http://localhost:1313/realBlog/p/markdown-syntax-guide/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/categories/syntax/</loc>
+    <loc>http://localhost:1313/realBlog/categories/syntax/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/tags/themes/</loc>
+    <loc>http://localhost:1313/realBlog/tags/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/categories/themes/</loc>
+    <loc>http://localhost:1313/realBlog/categories/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/p/image-gallery/</loc>
+    <loc>http://localhost:1313/realBlog/p/image-gallery/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/p/math-typesetting/</loc>
+    <loc>http://localhost:1313/realBlog/p/math-typesetting/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/archives/</loc>
+    <loc>http://localhost:1313/realBlog/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/categories/example-category/</loc>
+    <loc>http://localhost:1313/realBlog/categories/example-category/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/tags/example-tag/</loc>
+    <loc>http://localhost:1313/realBlog/tags/example-tag/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/page/</loc>
+    <loc>http://localhost:1313/realBlog/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/links/</loc>
+    <loc>http://localhost:1313/realBlog/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo_blog_stack/search/</loc>
+    <loc>http://localhost:1313/realBlog/search/</loc>
   </url>
 </urlset>
