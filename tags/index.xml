@@ -6,7 +6,15 @@
         <description>Recent content in Tags on Welcome !</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Mon, 14 Apr 2025 16:04:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/realBlog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 01 May 2025 18:41:23 +0800</lastBuildDate><atom:link href="http://localhost:1313/realBlog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>旅游</title>
+        <link>http://localhost:1313/realBlog/tags/%E6%97%85%E6%B8%B8/</link>
+        <pubDate>Thu, 01 May 2025 18:41:23 +0800</pubDate>
+        
+        <guid>http://localhost:1313/realBlog/tags/%E6%97%85%E6%B8%B8/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>DSP</title>
         <link>http://localhost:1313/realBlog/tags/dsp/</link>
         <pubDate>Mon, 14 Apr 2025 16:04:11 +0800</pubDate>

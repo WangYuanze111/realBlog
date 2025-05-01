@@ -9,10 +9,19 @@
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/realBlog/</loc>
-    <lastmod>2025-04-14T19:02:25+08:00</lastmod>
+    <lastmod>2025-05-01T18:41:23+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/realBlog/post/</loc>
-    <lastmod>2025-04-14T19:02:25+08:00</lastmod>
+    <lastmod>2025-05-01T18:41:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/realBlog/tags/</loc>
+    <lastmod>2025-05-01T18:41:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/realBlog/post/%E5%A4%A7%E5%90%8C/</loc>
+    <lastmod>2025-05-01T18:41:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/realBlog/tags/%E6%97%85%E6%B8%B8/</loc>
+    <lastmod>2025-05-01T18:41:23+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/realBlog/post/%E5%9B%BE%E5%83%8F%E5%89%8D%E6%B2%BF%E7%BB%93%E8%AF%BE%E4%BD%9C%E4%B8%9A/</loc>
     <lastmod>2025-04-14T19:02:25+08:00</lastmod>
@@ -24,9 +33,6 @@
     <lastmod>2025-04-14T16:04:11+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/realBlog/tags/matlab/</loc>
-    <lastmod>2025-04-14T16:04:11+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/realBlog/tags/</loc>
     <lastmod>2025-04-14T16:04:11+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/realBlog/post/0414/</loc>
