@@ -12,7 +12,15 @@
         <pubDate>Thu, 01 May 2025 18:41:23 +0800</pubDate>
         
         <guid>http://localhost:1313/realBlog/post/%E5%A4%A7%E5%90%8C/</guid>
-        <description>&lt;img src="http://localhost:1313/realBlog/16.jpg" alt="Featured image of post 大同" /&gt;</description>
+        <description>&lt;img src="http://localhost:1313/realBlog/post/%E5%A4%A7%E5%90%8C/1.jpg" alt="Featured image of post 大同" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/realBlog/post/%e5%a4%a7%e5%90%8c/1.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
         </item>
         
     </channel>
